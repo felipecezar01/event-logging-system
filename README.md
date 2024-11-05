@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img src="Cassandra.svg" alt="" width="200">
+    <img src="Cassandra.svg.png" alt="" width="200">
 </p>
 
 ### 🎯 **Objetivo Inicial**
@@ -25,7 +25,7 @@ Por isso, decidi encerrar o desenvolvimento deste projeto em Cassandra e prioriz
 ---
 
 <p align="center">
-    <img src=".gif" alt="" width="300">
+    <img src="goodbye.gif" alt="" width="300">
 </p>
 
 **Aprendi bastante nesse processo, mas é hora de mudar o foco para algo mais útil para minha carreira.**
