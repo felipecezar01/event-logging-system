@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img src="Cassandra.svg.png" alt="" width="200">
+    <img src="cassandra.png" alt="" width="200">
 </p>
 
 ### 🎯 **Objetivo Inicial**
